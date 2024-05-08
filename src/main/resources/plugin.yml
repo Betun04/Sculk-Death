@@ -1,0 +1,4 @@
+name: sculkEvent
+version: '${project.version}'
+main: me.betun.SculkDeath.SculkDeath
+api-version: '1.20'

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SculkDeath.iml" filepath="$PROJECT_DIR$/SculkDeath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sculkEvent.iml" filepath="$PROJECT_DIR$/sculkEvent.iml" />
+    </modules>
+  </component>
+</project>
